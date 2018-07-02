@@ -2,7 +2,7 @@
 
 About
 ------
-This script will search queries for the pub med data bases for a cell lines primary name and each one of its alias
+This script will search queries for the pub med data bases for a cell line's primary name and each one of its aliases
 in combination with a list of search terms based on the Site Primary of the cell line.
 
 Query Example
@@ -15,6 +15,7 @@ and related search terms (As a result of having bone as the primary site) : bone
 Resulting queries for the cell line name and for each alias...
 
 (143B and bone) and (143B and sarcoma)
+
 ...
 
 Running The Script
