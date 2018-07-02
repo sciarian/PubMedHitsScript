@@ -1,0 +1,25 @@
+Site.Primary,quoted.string,OR1,OR2
+autonomic_ganglia,neuroblastoma,,
+biliary_tract,cholangiocarcinoma,,
+bone,bone,sarcoma,
+breast,breast cancer,,
+central_nervous_system,glioblastoma,glioma,astrocytoma
+endometrium,uterine,,
+haematopoietic_and_lymphoid_tissue,leukaemia,leukaemia,leukaemia
+kidney,renal cancer,,
+large_intestine,colon cancer,,
+liver,hepatocellular carcinoma,hepatoblastoma,adenocarcinoma
+lung,carcinoma,,
+oesophagus,esophageal cancer,,
+ovary,ovarian cancer,,
+pancreas,pancreatic cancer,,
+pleura,mesothelioma,,
+prostate,prostatic cancer,,
+salivary_gland,carcinoma,,
+skin,melanoma,,
+small_intestine,carcinoma,,
+soft_tissue,sarcoma,soft tissue,
+stomach,gastric,,
+thyroid,carcinoma,,
+upper_aerodigestive_tract,squamous,,
+urinary_tract,carcinoma,,
