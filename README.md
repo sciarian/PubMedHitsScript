@@ -28,6 +28,6 @@ To run the script use the following command:
 
 "python pub_med_script.py"
 
-To save the output of the script simply pipe the output of it to a .csv file:
+To save the output of the script simply pipe the output to a .csv file:
 
 "python pub_med_script.py > output_file.csv"
